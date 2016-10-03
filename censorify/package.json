@@ -1,0 +1,10 @@
+{
+  "author":"hck424",
+  "name": "censorify",
+  "version": "0.0.1",
+  "main": "censortext",
+  "description": "Censors wordsout of text",
+  "engines": {
+    "node":"*"
+  }
+}
